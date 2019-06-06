@@ -1,0 +1,22 @@
+{
+  "name": "ludolab",
+  "version": "1.0.0",
+  "description": "Ludolab web site with vueJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balderious/ludolab.git"
+  },
+  "author": "Ludovic Saufnay aka Balderious",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balderious/ludolab/issues"
+  },
+  "homepage": "https://github.com/Balderious/ludolab#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
